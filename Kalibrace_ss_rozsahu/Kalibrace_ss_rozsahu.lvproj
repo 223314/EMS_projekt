@@ -11,6 +11,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Read_data_from_Agilent.vi" Type="VI" URL="../Read_data_from_Agilent.vi"/>
+		<Item Name="Reading_data_from_keysght.vi" Type="VI" URL="../Reading_data_from_keysght.vi"/>
 		<Item Name="State_machine.vi" Type="VI" URL="../State_machine.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
