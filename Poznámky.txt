@@ -1,0 +1,10 @@
+Ve dvojici, budeme pracovat na projektu na určitém pracovišti. 
+Navrhnout a sestavit měřící systém. Použít vhodnou sběrnici 
+Pro dokumentaci dvě stránky textu 
+První strana- Stručný popis aplikace - jaké se v aplikaci nacházejí bloky ošetření nežádoucích stavů, co může nastavit uživatel 
+druhá strana- určeí nejistot, omezení limity aplikace 
+
+Metrologická kvalita-  nesjitoty 
+Prezentace dva body
+
+Odevzdání do 30. dubna so 17:59  
