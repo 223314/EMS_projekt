@@ -11,6 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="data.txt" Type="Document" URL="../data.txt"/>
 		<Item Name="ukol1.vi" Type="VI" URL="../ukol1.vi"/>
 		<Item Name="ukol2.vi" Type="VI" URL="../ukol2.vi"/>
 		<Item Name="ukol3.vi" Type="VI" URL="../ukol3.vi"/>
